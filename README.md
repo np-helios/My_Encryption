@@ -29,6 +29,3 @@ The script performs basic encryption and decryption:
 - The encryption key is not saved or shared automatically; the same session must be used for decryption.
 - Only works on characters present in `string.punctuation`, `string.digits`, and `string.ascii_letters`.
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share!
